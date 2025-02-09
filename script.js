@@ -161,7 +161,7 @@ new TypeIt("#teks1", {
 
 }).go();
 new TypeIt("#teks2", {
-  strings: ["The gift is not for Anjali it's for my Indhuss ", "Ni thanne choose chetha ninak eshatapedathe varillalooo..","Athondaaa ninodu thanne orannam selact cheth tharan paranje ","","Once Again Happy Birthday Mutheee..🎉🥰😘"],
+  strings: ["Pinnayeee aa gift is not for Anjali it's for my Indhuss.. ❤️‍🩹 ", "Ni thanne choose chetha ninak eshatapedathe varillaloo athondaaa ninodu thanne orannam selact cheth tharan paranje ","","Once Again Happy Birthday Mutheee..🎉🥰😘"],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
