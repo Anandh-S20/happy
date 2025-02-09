@@ -158,15 +158,14 @@ new TypeIt("#teks1", {
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
-}).go();
 
+}).go();
 new TypeIt("#teks2", {
-  strings: ["Dengan ataupun tanpaku, semoga semesta selalu membahagiakan kamu bagimanapun caranya.", " ", "barakallah fi umrik, terima kasih sudah bertahan sampai sejauh ini.", " ", "- Wish all you the best"],
+  strings: ["The gift is not for Anjali it's for my Indhuss ", "Ni thanne choose chetha ninak eshatapedathe varillalooo..","Athondaaa ninodu thanne orannam selact cheth tharan paranje ","","Once Again Happy Birthday Mutheee..🎉🥰😘"],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
 }).go();
-
 
 new TypeIt("#trims", {
   strings: ["Terimakasih."],
