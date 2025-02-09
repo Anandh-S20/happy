@@ -154,7 +154,7 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Happy birthday to my beautifull, smartest, and most cutest Indhusee..💕","I feel so lucky to have you in my life.", "Even though we're far apart, you're always in my heart.",  "I can’t wait for the next time we can meet " , "Even from a distance, I know you’re always there."," And that makes me smile.","May your dreams come true and your heart be filled with joy."," I promise to make this day as special as you are."," I love you so much! 🥰😘"] ,
+  strings: ["Happy birthday to my beautifull, smartest, and most cutest Indhusee..💕","I feel so lucky to have you in my life. 🥹", "Even though we're far apart, you're always in my heart.💗",  "I can’t wait for the next time we can meet 🤭" , "Even from a distance, I know you’re always there."," And that makes me smile.😄","May your dreams come true and your heart be filled with joy.🥳"," I promise to make this day as special as you are."," I love you so much! 🥰😘"] ,
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
